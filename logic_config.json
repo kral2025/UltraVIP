@@ -1,0 +1,11 @@
+{
+    "scoring_weights": {
+        "trend": 1,
+        "divergence": 2,
+        "rsi_confirmation": 1,
+        "sentiment_match": 1,
+        "higher_tf_confirmed": 1,
+        "ai_confidence_high": 1
+    },
+    "minimum_score_required": 4
+}

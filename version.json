@@ -1,0 +1,9 @@
+{
+    "project_version": "3.1",
+    "lstm_model_version": "3.0",
+    "logic_config_version": "1.2",
+    "watchlist_version": "1.1",
+    "compatible_with": [
+        "3.1"
+    ]
+}
